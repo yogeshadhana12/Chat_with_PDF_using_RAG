@@ -1,0 +1,18 @@
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+python-dotenv
+pypdf
+pymupdf
+pdfminer
+unstructured
+python-docx
+docx2txt
+pandas
+# Embeddings
+langchain-huggingface
+sentence-transformers
+langchain-core
+
